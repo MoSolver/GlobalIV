@@ -2,6 +2,9 @@
 
 Interactive globe for exploring implied volatility surfaces of global equity index ETFs.
 
+## Live Run
+![alt](https://github.com/MoSolver/GlobalIV/blob/main/live_run.gif)
+
 ## Stack
 - **Backend**: Python + aiohttp (REST API, Black-Scholes Newton-Raphson IV solver)
 - **Frontend**: React + Three.js (3D globe) + Plotly (3D IV surface)
